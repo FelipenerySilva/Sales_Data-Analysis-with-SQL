@@ -4,7 +4,7 @@ This repository contains a T-SQL scrip file with a Sales data analysis from the 
 
 ### Project Objective<br>
 
-This Sales data analysis was completed for self-learning purpose and to practice T-SQL queries. We, also explored restoring the AdventureWorks data warehouse into SQL server 2019 using the graphical interface (GUI) in SQL Server Management Studio.<br>
+This Sales data analysis was completed for self-learning purpose and to practice my skills with T-SQL queries. I have also restored the AdventureWorks data warehouse into SQL server 2019 using the graphical interface (GUI) in SQL Server Management Studio.<br>
 
 ### In this project I was able to: <br />
 
